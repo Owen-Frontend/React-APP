@@ -1,0 +1,44 @@
+.Lo{
+    width: 100%;
+    height: 70px;
+    margin: 10px 20px;
+
+}
+.Uword{
+    text-decoration: none;
+    
+}
+.Form{
+    width:100%;
+    float: left;
+    display: table-cell;
+    height: 200px;
+    background-color:#20A0FF;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    border: #ffffff solid 10px;
+}
+
+.Pic{
+    float: left;
+    display: table-cell;
+    background-color:#13CE66;
+    height: 200px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    border: #ffffff solid 10px;
+}
+.Sign{
+    float: left;
+    display: table-cell;
+    background-color:#FF4949;
+    height: 200px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    border: #ffffff solid 10px;
+}
